@@ -1,0 +1,41 @@
+h1{
+    font-family: Alkatra;
+}
+.text-center{
+    text-align: center;
+}
+
+.input{
+    width: 300px;
+    height: 50px;
+    border: solid;
+    border-radius: 10px;
+    font-family: Alkatra;
+    font-size: larger;
+}
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.button{
+    padding: 10px 20px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: Alkatra;
+    font-size: larger;
+    width: 18%;
+}
+.item-center{
+    align-items: center;
+}
+body{
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/10/free-website-background-21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*  */
